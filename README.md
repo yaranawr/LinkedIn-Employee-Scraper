@@ -1,6 +1,8 @@
 # LinkedIn Employee Scraper
 A simply scraper for LinkedIn using Python and Selenium.
 It captures employee names, descriptions, and profile links from a specified company and saves the data in a CSV file separated by semicolons.
+
+You must be logged into LinkedIn using the default Chrome browser profile.
 ***
 ## Installation
 
