@@ -11,7 +11,7 @@ You must be logged into LinkedIn using the default Chrome browser profile.
 Git clone this repository:
 
 ```
-$ git clone https://github.com/yr4na/LinkedIn-Employee-Scraper
+$ git clone https://github.com/yaranawr/LinkedIn-Employee-Scraper
 $ cd LinkedIn-Employee-Scraper
 $ python -m pip install -r requirements.txt
 ```
